@@ -7,3 +7,4 @@ venv/
 .venv/
 airflow.db
 airflow-webserver.pid
+airflow_home/airflow.cfg
