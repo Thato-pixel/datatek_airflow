@@ -1,0 +1,9 @@
+*.json
+.env
+logs/
+__pycache__/
+*.pyc
+venv/
+.venv/
+airflow.db
+airflow-webserver.pid
